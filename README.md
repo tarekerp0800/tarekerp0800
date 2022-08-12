@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on HAMAD GENERAL HOSPITAL
+- 🌱 I’m currently learning Masters in Data Science 
+- 👯 I’m looking to collaborate on Machine Learning Projects 
+
+
 
 <!--
 **tarekerp0800/tarekerp0800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
